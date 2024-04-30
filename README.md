@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGw4BhRHfEimQ/profile-displaybackgroundimage-shrink_350_1400/0/1694428555705?e=1720051200&v=beta&t=haU3_XS6na9jtXjCXwHGoqhWYolHRJM7zWqasLb1TVY)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQGw4BhRHfEimQ/profile-displaybackgroundimage-shrink_350_1400/0/1694428555705?e=1720051200&v=beta&t=haU3_XS6na9jtXjCXwHGoqhWYolHRJM7zWqasLb1TVY)
 <h1 align="center">Hi 👋, I'm Pradyumna Kulkarni</h1>
 <h3 align="center">A passionate Data Enthusiast, who believes in self-learning and dedication.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
